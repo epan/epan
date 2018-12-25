@@ -1,0 +1,25 @@
+{
+  "name": "epan",
+  "version": "1.0.0",
+  "description": "Eric Pan",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epan/epan.git"
+  },
+  "keywords": [
+    "profile",
+    "business",
+    "card",
+    "identity"
+  ],
+  "author": "Eric Pan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epan/epan/issues"
+  },
+  "homepage": "https://github.com/epan/epan#readme"
+}
