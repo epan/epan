@@ -12,4 +12,4 @@ npx epan
 
 ## Prerequisites
 
-# npm
+1. npm
