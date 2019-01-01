@@ -1,10 +1,13 @@
 {
   "name": "epan",
-  "version": "1.0.0",
-  "description": "Eric Pan",
+  "version": "1.0.1",
+  "description": "Eric Pan npx info card",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "epan": "./src/index.js"
   },
   "repository": {
     "type": "git",
