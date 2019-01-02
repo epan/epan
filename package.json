@@ -4,7 +4,7 @@
   "description": "Eric Pan npx info card",
   "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "bin": {
     "epan": "./src/index.js"
@@ -28,5 +28,8 @@
   "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
   }
 }
