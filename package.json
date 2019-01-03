@@ -1,6 +1,6 @@
 {
   "name": "epan",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Eric Pan npx info card",
   "main": "./src/index.js",
   "scripts": {
